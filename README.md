@@ -50,7 +50,7 @@ reference.tickers().then(/* your success handler */);
 
 ### [Websocket](https://polygon.io/docs/stocks/ws_getting-started)
 
-You can get preauthenticated [websocket clients](https://www.npmjs.com/package/websocket) for the 3 topics.
+You can get pre-authenticated [websocket clients](https://www.npmjs.com/package/websocket) for the 3 topics.
 
 ```typescript
 import { websocketClient } from "@polygon.io/client-js";
